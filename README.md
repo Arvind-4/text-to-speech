@@ -1,6 +1,6 @@
 # Text-to-Speech-with-PyQt5
 
-Text to Speech Using PyQt5 and even Save them Locally.
+Convert Text to Speech Using PyQt5 and Save them Locally.
 
 # How to Run this Locally
 
